@@ -15,7 +15,7 @@ Welcome to Brian Soto's Portfolio, a showcase of my work as a developer. This po
 - **CSS**: Styling the layout and appearance of the portfolio, including Flexbox for layout and media queries for responsiveness.
 
 ## Screenshot
-![alt text](./assets/images/bspcss.png)
+![alt text](./Assets/Images/bspcss.png)
 
 **Repo:**
 
